@@ -1,0 +1,18 @@
+Should we make these AWS Lambda functions ?
+Maybe? Performance/latency is key.
+Local cache of data is important.
+Charge just for each access is attractive - .
+
+What about just making them modelled Pure services so we don't run them ?
+Read-only access makes sense ?
+
+Storage of "claim"
+
+
+
+
+
+
+
+
+
